@@ -1,0 +1,2 @@
+# MGM
+meta-generative model
